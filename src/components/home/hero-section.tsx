@@ -9,7 +9,7 @@ export default function HeroSection() {
   return (
     <section className="container mx-auto px-4 py-20 text-center min-h-[50vh] grid place-items-center">
       <div className="max-w-4xl">
-        <h1 className="text-4xl text-green-300 md:text-6xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
+        <h1 className="text-4xl text-green-300 md:text-6xl font-bold ">
           Discover Tech Solutions
         </h1>
         <p className=" text-lg sm:text-xl text-gray-300 my-8 max-w-2xl mx-auto">
